@@ -1,0 +1,9 @@
+---
+name: TP 1 FUNCIONAL - SAB MANANA
+locale: es
+type: practice
+beta: false
+language: haskell
+id_format: '%05d'
+order:
+- 1
