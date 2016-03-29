@@ -14,7 +14,7 @@ series =
   ("daredevil", 2, 2015, "Netflix")]
 ```
 
-La anterior es una función constante: No recibe parámetros y siempre devuelve esa misma lista.
+La anterior es una función constante: no recibe parámetros y siempre devuelve la misma lista.
 
 Cada tupla representa:
 
@@ -26,7 +26,8 @@ Cada tupla representa:
 Por otra parte, se tiene la lista de actores (la muestra es sólo un ejemplo):
 
 ```haskell
-actores = [("Ken Leung", ["lost", "los soprano"]),
+actores =
+  [("Ken Leung", ["lost", "los soprano"]),
 	("Joel Gretsch", ["4400", "V", "United States of Tara"]),
 	("James Gandolfini", ["los soprano"]),
 	("Elizabeth Mitchell", ["dr house", "V", "lost"])]
