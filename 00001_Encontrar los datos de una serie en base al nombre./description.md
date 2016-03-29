@@ -1,4 +1,4 @@
-Encontrar los datos de una serie en base al nombre.
+Encontrar los datos de una serie en base a su nombre.
 
 ```haskell
 > datosDe "4400"
