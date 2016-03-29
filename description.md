@@ -26,11 +26,11 @@ Cada tupla representa:
 Por otra parte, se tiene la lista de actores (la muestra es sólo un ejemplo):
 
 ```haskell
-actores =
+actores = 
   [("Ken Leung", ["lost", "los soprano"]),
-	("Joel Gretsch", ["4400", "V", "United States of Tara"]),
-	("James Gandolfini", ["los soprano"]),
-	("Elizabeth Mitchell", ["dr house", "V", "lost"])]
+  ("Joel Gretsch", ["4400", "V", "United States of Tara"]),
+  ("James Gandolfini", ["los soprano"]),
+  ("Elizabeth Mitchell", ["dr house", "V", "lost"])]
 ```
 
 El formato que sigue la tupla es:
