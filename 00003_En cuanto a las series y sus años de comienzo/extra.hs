@@ -19,5 +19,10 @@ cadenaTV (_, _, _, c) = c
 nombreActor = fst
 seriesDeActor = snd
 
+--Punto 1
 datosDe nombre = find ((==nombre).serie) series
 find f = head . filter f
+
+--Punto 2
+participoDe nombreSerie alguien = elem nombreSerie . seriesDeActor $ find ((==alguien).nombreActor) actores
+listaDeActoresDe nombre = map nombreActor $ filter (participoDe nombre . nombreActor) actores
