@@ -14,6 +14,8 @@ series =
   ("daredevil", 2, 2015, "Netflix")]
 ```
 
+La anterior es una función constante: No recibe parámetros y siempre devuelve esa misma lista.
+
 Cada tupla representa:
 
 - El nombre de la serie
@@ -21,7 +23,7 @@ Cada tupla representa:
 - En qué año se emitió la primera temporada
 - Qué cadena lo produjo
  
-Por otra parte se tiene la lista de actores (la muestra es sólo un ejemplo):
+Por otra parte, se tiene la lista de actores (la muestra es sólo un ejemplo):
 
 ```haskell
 actores = [("Ken Leung", ["lost", "los soprano"]),
