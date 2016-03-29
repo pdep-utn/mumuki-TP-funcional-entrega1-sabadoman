@@ -40,6 +40,7 @@ El formato que sigue la tupla es:
 - Lista de series en las que participó
  
 Se cuenta con estas funciones:
+
 ```haskell
 serie (s, _, _, _) = s
 
