@@ -17,11 +17,8 @@ series =
 Cada tupla representa:
 
 - El nombre de la serie
-
 - La cantidad de temporadas
-
 - En qué año se emitió la primera temporada
-
 - Qué cadena lo produjo
  
 Por otra parte se tiene la lista de actores (la muestra es sólo un ejemplo):
@@ -36,7 +33,6 @@ actores = [("Ken Leung", ["lost", "los soprano"]),
 El formato que sigue la tupla es:
 
 - Nombre del actor
-
 - Lista de series en las que participó
  
 Se cuenta con estas funciones:
