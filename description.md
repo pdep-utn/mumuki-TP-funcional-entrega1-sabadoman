@@ -43,14 +43,9 @@ Se cuenta con estas funciones:
 
 ```haskell
 serie (s, _, _, _) = s
-
 anioComienzo (_, _, a, _) = a
-
 temporadas (_, t, _, _) = t
-
 cadenaTV (_, _, _, c) = c
-
 nombreActor = fst
-
 seriesDeActor = snd
 ```
