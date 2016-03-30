@@ -1,4 +1,4 @@
-describe "Año de comienzo de series" $ do
+describe "Año de comienzo de series:" $ do
   describe "anioDeComienzoDe" $ do
     it "anioDeComienzoDe \"lost\"    devuelve 2004" $ do
       anioDeComienzoDe "lost" `shouldBe` 2004
