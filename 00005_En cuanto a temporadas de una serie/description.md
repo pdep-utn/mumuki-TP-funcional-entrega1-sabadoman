@@ -9,4 +9,5 @@ b. Resolver el punto a proponiendo una solución distinta (también usando divis
 ```haskell
 > promedioDeTemporadas' series
 5
+
 ```
