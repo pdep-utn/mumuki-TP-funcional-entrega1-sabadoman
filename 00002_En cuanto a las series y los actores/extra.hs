@@ -1,3 +1,4 @@
+series :: [([Char], Int, Integer, [Char])]
 series = [("los soprano", 6, 1999, "HBO"),
             ("lost", 6, 2004, "ABC"),
             ("4400", 4, 2004, "CBS"),
