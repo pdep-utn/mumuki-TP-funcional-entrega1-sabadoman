@@ -3,6 +3,7 @@ name: TP Fun 1 - Sábados Mañana - Series de TV
 locale: es
 type: practice
 beta: false
+teacher_info: 
 language: haskell
 id_format: '%05d'
 order:
